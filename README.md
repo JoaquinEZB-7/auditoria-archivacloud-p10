@@ -17,11 +17,11 @@ original.
 
 ## Contenido
 
-- `informe/` — Informe técnico de la auditoría (PDF).
+- `informe/` — Informe técnico de la auditoría (PDF) y Resumen Ejecutivo (PDF).
 - `iac/` — Código de Infraestructura como Código (Terraform) de la
   arquitectura objetivo propuesta.
 - `evidencias/` — Capturas de evidencia de los hallazgos.
-- `modelo-amenazas` — DFD_nivel1 y matriz STRIDE
+- `modelo-amenazas/` — DFD_nivel_1, matriz STRIDE y Arquitectura_Objetivo_ArchivaCloud
 
 ## Reproducción de las pruebas
 
